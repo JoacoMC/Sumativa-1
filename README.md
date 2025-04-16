@@ -3,6 +3,8 @@ Entrega de la evaluación sumativa 1 del ramo Programación Front End correspond
 Se nos pidió realizar la siguiente actividad:
 
 ----------------------------------------Actividad----------------------------------------------------------------------------------------
+
+
 Diseña, estructura y elabora un sitio web que tenga como contenido información general de tu animal
 favorito. Deberás incluir una página de inicio con información general, otra con detalles, una galería de
 imágenes y un formulario de contacto.
