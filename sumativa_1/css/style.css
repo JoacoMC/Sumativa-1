@@ -81,7 +81,7 @@ header h1{
 
 .descripcion p{
     margin: 5px 10px;
-    padding: 50px 20px;
+    padding: 50px 20px 0px 20px;
 }
 
 h2 {
@@ -96,6 +96,9 @@ h2 {
     justify-content: space-between;
 }
 
+.descripcion li{
+    margin-left: 50px;
+}
 .detalles p{
     padding: 0px 20px 20px 0px;
 }
