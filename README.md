@@ -2,7 +2,7 @@
 Entrega de la evaluación sumativa 1 del ramo Programación Front End correspondiente al tercer semestre de la carrera Analista Programador
 Se nos pidió realizar la siguiente actividad:
 
-----------------------------------------Actividad----------------------------------------------------------------------------------------
+----------------------------------------Actividad------------------------------------------------------------------------------
 
 
 Diseña, estructura y elabora un sitio web que tenga como contenido información general de tu animal
